@@ -1,0 +1,8 @@
+1. The files with CF<<file_id>> contains the trajectories of all the participants in a trial.
+
+2. The files have 1+(nhel*2) columns, nhel = number of participants.
+
+3. The first column is the time-frame.
+
+4. Every (2i)th column is the filtered x-position of i-th participant.
+   Every (2i+1)th column is the filtered y-position of i-th participant.
